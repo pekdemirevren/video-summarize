@@ -1,0 +1,7 @@
+{
+  "name": "Video AI Toolkit",
+  "description": "An application that uses Gemini to summarize, transcribe, translate, and voice over video content. Upload a video to get started.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
